@@ -1,0 +1,52 @@
+
+  body {
+    background-color: #40a8c4;
+  }
+  hr {
+
+    border-style: dotted;
+    border-width: 9px;
+    border-color: #a2d5f2;
+    border-top-width: 0;
+    width: 3%;
+  }
+
+  h1 {
+  color: #cffffe;
+  font-family: 'Cabin', sans-serif;
+
+  }
+
+  h2 {
+    color: #cffffe;
+    font-family: 'Cabin', sans-serif;
+  }
+
+  h3 {
+    color: #cffffe;
+    font-family: 'Cabin', sans-serif;
+  }
+
+  p {
+    color: black;
+    font-family: 'IBM Plex Sans', sans-serif;
+
+  }
+
+  .normal-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+
+  }
+
+  .blue-border {
+    border-style: solid;
+    border-color: #cffffe;
+    border-width: medium;
+
+  }
+
+  .center {
+    margin: auto;
+    text-align: center;
+  }
